@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80871c9f-1000-4f10-a5b5-ccc09ed12b05" name="更改" comment="add dataset" />
+    <list default="true" id="80871c9f-1000-4f10-a5b5-ccc09ed12b05" name="更改" comment="add dataset">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710154270173</updated>
       <workItem from="1710154271381" duration="1524000" />
-      <workItem from="1710156162747" duration="948000" />
+      <workItem from="1710156162747" duration="1933000" />
     </task>
     <task id="LOCAL-00001" summary="add dataset">
       <option name="closed" value="true" />
@@ -169,6 +172,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="add dataset" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/yolov9$train.coverage" NAME="train 覆盖结果" MODIFIED="1710156466000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/yolov9$train.coverage" NAME="train 覆盖结果" MODIFIED="1710157173885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
