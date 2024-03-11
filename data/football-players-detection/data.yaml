@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: ./data/football-players-detection/train/images
+val: ./data/football-players-detection/valid/images
+test: ./data/football-players-detection/test/images
 
 nc: 4
 names: ['ball', 'goalkeeper', 'player', 'referee']
